@@ -1,0 +1,27 @@
+#centralwidget
+{
+    background-color: #333;
+}
+#windowTitleBar
+{
+    border-bottom: 1px solid #444;
+}
+
+#windowTitleBarLabel
+{
+    color: #CCC;
+}
+
+#colorDisplay
+{
+    border-bottom: 1px solid #444;
+}
+
+QTabBar {
+    font-size: 10pt;
+}
+
+QTabBar::tab
+{
+    height: 30px;
+}
